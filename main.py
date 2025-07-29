@@ -43,7 +43,7 @@ def floor(a , b):
 while True:
     
     # print()
-    
+    print("\t\t\t\t\t\t Calculator With History")
     expression = input("Enter Expresion with Operator ( + , - , * , / , ^ , % , //) or (exit , history , clear): ")
     
     if expression == "exit":
